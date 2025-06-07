@@ -24,8 +24,11 @@ Este repositorio contiene la resolución de **ejercicios prácticos de Programac
 
 ## 📌 Notas adicionales
 🔹 Se recomienda revisar el PDF de ejercicios antes de modificar el código.
+
 🔹 El repositorio se actualizará con correcciones y mejoras en las implementaciones.
+
 🔹 Aportes y sugerencias son bienvenidos para optimizar la lógica de los ejercicios.
+
 
 📫 **Contacto:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/juanjose-caputo/) | 💻 [GitHub](https://github.com/juanjose27capu)  
