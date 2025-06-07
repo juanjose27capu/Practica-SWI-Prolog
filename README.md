@@ -15,8 +15,11 @@ Este repositorio contiene la resolución de **ejercicios prácticos de Programac
 ## 🛠 **Cómo ejecutar los archivos**  
 1️⃣ Descarga o clona el repositorio con:  
    git clone https://github.com/tuusuario/prolog-ejercicios.git
+   
 2️⃣ Abre SWI-Prolog y carga el archivo
+
 3️⃣ Ejecuta los predicados correspondientes para probar los ejercicios.
+
 4️⃣ Explora las imágenes de seguimiento para analizar el comportamiento del motor de búsqueda.
 
 ## 📌 Notas adicionales
